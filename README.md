@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-This is a small workshop where I occasionally upload small tools—sometimes for fun, sometimes to learn, sometimes to solve a problem, but generally for some mix of these. I've mainly used C# in the past, so much of my work leverages that, but I've recently picked up Ruby on Rails for work too. Rust has suddenly grabbed my attention too...
+This is a small workshop where I occasionally upload small tools—sometimes for fun, sometimes to learn, sometimes to solve a problem, but generally for some mix of these. C# is what I've used most, so much of my work leverages that, but I've been touching Ruby on Rails too due to work, and Rust suddenly grabbed my attention too...
 
 ### ようこそ！
 
